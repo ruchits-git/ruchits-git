@@ -1,6 +1,7 @@
-<img src="https://www.shutterstock.com/image-illustration/web-development-coding-concept-banner-600w-1955634814.jpg" alt="intro" class="center">
+<img src="https://repository-images.githubusercontent.com/241960351/71eb4800-7201-11ea-82f2-b4779cb7d08a" alt="intro" class="center">
 <h1 align="center">Hi 👋, I'm Ruchit Kothari</h1>
-<h3 align="center">I am a passionate coder.I like experimenting with new technologies, small projects and exciting hackathons</h3>
+<h3 align="center">I am a passionate coder,I like experimenting with new technologies, small projects and exciting hackathons
+Machine learning and Frontend development excites me the most</h3>
 <img src=
 "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
         alt="CODER"

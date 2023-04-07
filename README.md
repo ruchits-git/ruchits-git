@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/241960351/71eb4800-7201-11ea-82f2-b4779cb7d08a" alt="intro" class="center">
+<img src="https://raw.githubusercontent.com/blankmagic/blankmagic/main/IMG/github-code.gif" alt="intro" class="center">
 <h1 align="center">Hi 👋, I'm Ruchit Kothari</h1>
 <h3 align="center">I am a passionate coder,I like experimenting with new technologies, small projects and exciting hackathons
 Machine learning and Frontend development excites me the most</h3>
